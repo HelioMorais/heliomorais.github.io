@@ -1,0 +1,10 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #13131F;
+}
+h1,h2,p,li,a{
+    color: white;
+}
+.list-hab{
+    font-size: 20px;
+}
