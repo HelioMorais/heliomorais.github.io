@@ -5,12 +5,15 @@
     box-sizing: border-box;
 }
 
+video {
+    width: 100%;
 
+}
 .background{
     background-color: #101010;
     background-size: cover;
     background-position: center;
-    height: 100vh;
+    height: 115vh;
     width: 100%;
 
 }
@@ -25,7 +28,7 @@ nav{
 }
 
 .logo{
-    color: rgb(255, 94, 0);
+    color: rgb(255, 255, 255);
     font-size: 35px;
     cursor: pointer;
     letter-spacing: 1px;
@@ -85,7 +88,7 @@ h1{
 }
 
 h4{
-    color: rgb(255, 94, 0);
+    color: rgb(255, 255, 255);
     letter-spacing: 2px;
     font-size: 20px;
 }
@@ -169,7 +172,7 @@ h3{
 }
 
 .Text-sobre p{
-    color: rgb(255, 94, 0);
+    color: rgb(255, 255, 255);
     letter-spacing: 1px;
     line-height: 28px;
     font-size: 18px;
@@ -243,7 +246,7 @@ h5{
 }
 
 .Paragrafo-button{
-    color: rgb(255, 94, 0);
+    color: rgb(255, 255, 255);
     font-size: 16px;
     line-height: 27px;
     margin-bottom: 25px;
